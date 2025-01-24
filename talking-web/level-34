@@ -1,0 +1,1 @@
+curl -v --header "Cookie: cookie=6f19d61434ab37097b9c4c1a643a4461" http://localhost:80/

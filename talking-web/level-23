@@ -1,0 +1,7 @@
+POST / HTTP/1.0
+Host: 127.0.0.1
+Accept: text/html, text/xml
+Content-Length: 78
+Content-Type: application/x-www-form-urlencoded
+
+a=beb45987feee089263434a34bb36b2bc&b=40390cdc%20f41daab2%266f8323a6%238735f902

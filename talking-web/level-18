@@ -1,0 +1,9 @@
+import requests
+
+a_param = "50f11789b338c43704e7e7efe856df79"
+b_param = "bfbefb62 61ebfd62&66f0834b#572edf54"
+
+r = requests.get("http://127.0.0.1:80/", params={"a": a_param, "b":b_param})
+
+print(r.text)
+

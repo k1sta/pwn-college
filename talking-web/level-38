@@ -1,0 +1,4 @@
+GET / HTTP/1.1
+Host: 127.0.0.1
+Cookie: session=eyJzdGF0ZSI6M30.Z36kXQ.Kg0YmS4wyVIEiGZvgMQePc6-0BY
+

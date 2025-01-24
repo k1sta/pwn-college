@@ -1,0 +1,8 @@
+import requests
+
+a_param = "9d506ffcc731132d24ffd5e2788dc72f"
+
+r = requests.post("http://127.0.0.1:80/", json={"a":a_param})
+
+print(r.text)
+

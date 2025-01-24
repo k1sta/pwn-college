@@ -1,0 +1,4 @@
+GET / HTTP/1.1
+Host: 127.0.0.1
+Cookie: cookie=524d4e4b2c303ca5916f44055d99c1a0
+

@@ -1,0 +1,1 @@
+Quis testar se é possível injetar a execução de uma função declarada no código dentro da LD_PRELOAD usando o seu SYMBOL, mas não é possível.
